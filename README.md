@@ -6,3 +6,5 @@ The framework was validated across multiple scenarios demonstrating its capabili
 
 This repository contains to MATLAB code that was used to obtain the training and testing data based on the successive convexification technique outlined in "
 Szmuk, M., Pascucci, C. A., Dueri, D., and Açikmeşe, B., Convexification and real-time on-board optimization for agile quad-rotor maneuvering and obstacle avoidance, 2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), IEEE, 2017, pp. 4862–4868"
+
+The code used for Neural Network hyperparameter optimization and training can be found here: https://github.com/jp-praveen/Neural_Network_Trajectory_Generator
